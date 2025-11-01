@@ -11,8 +11,8 @@
     <button class="menu-toggle">☰</button>
     <ul>
       <li><a href="index.html">Início</a></li>
-      <li><a href="sobre.html">Sobre</a></li>
-      <li><a href="contato.html">Contato</a></li>
+      <li><a href="sobre.html">Projetos</a></li>
+      <li><a href="contato.html">Cadastro</a></li>
     </ul>
   </nav>
 </header>
