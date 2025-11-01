@@ -1,0 +1,16 @@
+h1, h2, h3 {
+  color: var(--color-primary-dark);
+  margin-bottom: var(--space-2);
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: var(--space-2);
+}
+
+footer {
+  background: var(--color-dark);
+  color: var(--color-white);
+  text-align: center;
+  padding: var(--space-3);
+}
